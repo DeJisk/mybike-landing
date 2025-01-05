@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Розроблено адаптивний лендінг. Проєкт включає сучасний дизайн, інтерактивні елементи та оптимізовану верстку з використанням HTML, CSS (SASS/SCSS). Забезпечено кросбраузерну сумісність і коректне відображення на мобільних пристроях.
+
+Прев’ю проєкту:
+https://dejisk.github.io/mybike-landing/#details
+
+Макет:
+https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=uLylIrRbhO1lgCAR-0
+
+Інструкція для запуску проєкту:
+  1. Склонувати репозиторій та відкрити його на своєму пристрої.
+  2. Встановити залежності за допомогою команди: npm i.
+  3. Запустити проєкт: npm start.
